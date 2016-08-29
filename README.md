@@ -1,3 +1,5 @@
 # final-kibeob
-finalproject
-asdfasdfasdf
+
+철현입니다.
+
+기법에게 갈까요????
