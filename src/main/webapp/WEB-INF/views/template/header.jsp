@@ -7,7 +7,7 @@
 			<!-- Header top left content contact -->
 			<div class="header-contact">
 				<!-- Contact number -->
-				<span><i class="fa fa-phone red"></i> 888-888-8888</span>
+				<span><i class="fa fa-phone red"></i>888</span>
 			</div>
 		</div>
 		<div class="col-md-4 col-sm-4">
